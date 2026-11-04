@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "114951412990",
+    "project_id": "ac2-livros",
+    "storage_bucket": "ac2-livros.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114951412990:android:28a10c7452dbe37f4fd9af",
+        "android_client_info": {
+          "package_name": "com.example.ac2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfX15l_26u1huL_9wFoudSHRtp1gHM0Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
